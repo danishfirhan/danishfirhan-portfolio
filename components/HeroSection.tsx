@@ -20,24 +20,21 @@ const HeroSection = () => {
         <div className="md:mt-2 md:w-3/5">
           <h1 className="text-4xl font-bold mt-6 md:mt-0 md:text-7xl">Hey there, I&#39;m Danish Firhan</h1>
           <p className="text-lg mt-4 mb-6 md:text-2xl">
-            I&#39;m a{" "}
+            I&#39;m a passionate{" "}
             <span className="font-semibold text-teal-600">
-              Software Engineer{" "}
+              tech enthusiast{" "}
             </span>
-            based in Los Angeles, CA. Working towards creating software that
-            makes life easier and more meaningful.
+              with a knack for web and mobile app development. Focusing on both front-end and back-end technologies, I thrive in creating seamless digital experiences.
           </p>
-          <Link
-            to="projects"
-            className="text-neutral-100 font-semibold px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700"
-            activeClass="active"
-            spy={true}
-            smooth={true}
-            offset={-100}
-            duration={500}
+          <a
+          href="/Danish-Firhan-Resume.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-neutral-100 font-semibold px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700"
           >
-            Projects
-          </Link>
+          My Resume
+          </a>
+
         </div>
       </div>
       <div className="flex flex-row items-center text-center justify-center ">

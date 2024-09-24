@@ -5,6 +5,8 @@ const skills = [
   { skill: "HTML" },
   { skill: "CSS" },
   { skill: "JavaScript" },
+  { skill: "C++" },
+  { skill: "Java" },
   { skill: "TypeScript" },
   { skill: "Python" },
   { skill: "React" },
@@ -12,6 +14,9 @@ const skills = [
   { skill: "Tailwind CSS" },
   { skill: "Git" },
   { skill: "GitHub" },
+  { skill: "MySQL" },
+  { skill: "Android Studio" },
+  { skill: "Figma" },
   { skill: "Jupyter Notebooks" },
 ]
 
@@ -30,35 +35,24 @@ const AboutSection = () => {
               Get to know me!
             </h1>
             <p>
-              Hi, my name is Hosna and I am a{" "}
-              <span className="font-bold">{"highly ambitious"}</span>,
-              <span className="font-bold">{" self-motivated"}</span>, and
-              <span className="font-bold">{" driven"}</span> software engineer
-              based in Los Angeles, CA.
+              Hi, my name is Danish Firhan and I am currently a Final Year
+              Student pursuing my Diploma in Computer Science at Universiti
+              Teknologi Malaysia, Kuala Lumpur.
             </p>
             <br />
             <p>
-              I graduated from California State University, Northridge in 2019
-              with a BS in Computer Engineering and have been working in the
-              field ever since.
+              I&#39;m a curious individual that&#39;s always trying to acquire new
+              skills and knowledge in fields that spark my interest. Currently,
+              I&#39;m extremely invested in learning about the latest things in tech
+              and computer science, trying my best to land an internship in
+              software development or IT!
             </p>
             <br />
             <p>
-              I have a wide range of hobbies and passions that keep me busy.
-              From reading, playing sports, traveling, to making YouTube videos,
-              I am always seeking new experiences and love to keep myself
-              engaged and learning new things.
-            </p>
-            <br />
-            <p>
-              I believe that you should{" "}
-              <span className="font-bold text-teal-500">
-                never stop growing
-              </span>{" "}
-              and that&#39;s what I strive to do, I have a passion for
-              technology and a desire to always push the limits of what is
-              possible. I am excited to see where my career takes me and am
-              always open to new opportunities. 🙂
+              I also have lots of hobbies during my free time such as reading,
+              playing music, and surfing the web. These hobbies drive me to work
+              harder and more efficiently so that I can have more time and
+              energy to be spent on them.
             </p>
           </div>
           <div className="text-center md:w-1/2 md:text-left">
