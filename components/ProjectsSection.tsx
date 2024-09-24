@@ -6,27 +6,27 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
-    name: "Thankful Thoughts",
+    name: "MusicRecords2U",
     description:
-      "ThankfulThoughts is a web app that generates an appreciative sentence of something or someone you are thankful for.",
-    image: "/thankfulthoughts.png",
-    github: "https://github.com/hqasmei/thankful-thoughts",
-    link: "https://thankfulthoughts.io/",
+      "An E-Commerce website made with NextJS, TypeScript, PostgreSQL and styled with TailwindCSS, built to facilitate MusicRecords2U's online sales and showcase products to their customers online.",
+    image: "/musicrecords2u.png",
+    github: "https://github.com/danishfirhan/sd-project-group-04",
+    link: "https://musicrecords2u.streamlit.app/",
   },
   {
-    name: "PlatoIO",
-    description: "PlatoIO is a to do list app that built using the PERN stack.",
-    image: "/platoio.png",
-    github: "https://github.com/hqasmei/platoio",
-    link: "https://platoio.com/register",
+    name: "Sports Booking Facility",
+    description: "A web-based application that provides an online booking platform for Sports Complex Facilities made with HTML, CSS, JavaScript, PHP and MySQL. Built with a simple and pleasant user interface, featuring user-friendly functionalities and features.",
+    image: "/facility-booking-system.png",
+    github: "https://github.com/danishfirhan/sports-booking-facility",
+    link: "https://sports-booking-facility.streamlit.app/",
   },
   {
-    name: "Kator Family Photos",
+    name: "Dune Quiz Website",
     description:
-      "Kator Family Photos is a photos and video digitization service in the LA area.",
-    image: "/familyphotos.png",
-    github: "https://github.com/hqasmei/katorfamilyphotos",
-    link: "https://katorfamilyphotos.com/",
+      "A simple web page that shows a quiz from the Dune Science Fiction world. This project is made using HTML, CSS and JavaScript.",
+    image: "/dune.png",
+    github: "https://github.com/danishfirhan/Dune-Quiz-Website",
+    link: "https://dune-quiz.streamlit.app/",
   },
 ]
 
