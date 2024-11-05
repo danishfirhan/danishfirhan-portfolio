@@ -11,14 +11,14 @@ const projects = [
       "An E-Commerce website made with NextJS, TypeScript, PostgreSQL and styled with TailwindCSS, built to facilitate MusicRecords2U's online sales and showcase products to their customers online.",
     image: "/musicrecords2u.png",
     github: "https://github.com/danishfirhan/sd-project-group-04",
-    link: "https://musicrecords2u.streamlit.app/",
+    link: "https://musicrecords2u.vercel.app/",
   },
   {
     name: "Sports Booking Facility",
     description: "A web-based application that provides an online booking platform for Sports Complex Facilities made with HTML, CSS, JavaScript, PHP and MySQL. Built with a simple and pleasant user interface, featuring user-friendly functionalities and features.",
     image: "/facility-booking-system.png",
     github: "https://github.com/danishfirhan/sports-booking-facility",
-    link: "https://sports-booking-facility.streamlit.app/",
+    link: "https://sports-booking-facility.vercel.app/",
   },
   {
     name: "Dune Quiz Website",
@@ -26,7 +26,7 @@ const projects = [
       "A simple web page that shows a quiz from the Dune Science Fiction world. This project is made using HTML, CSS and JavaScript.",
     image: "/dune.png",
     github: "https://github.com/danishfirhan/Dune-Quiz-Website",
-    link: "https://dune-quiz.streamlit.app/",
+    link: "https://dune-quiz.vercel.app/",
   },
 ]
 
